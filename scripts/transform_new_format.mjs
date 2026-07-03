@@ -9,7 +9,11 @@
  *   sprint_start, device
  *
  * Usage:
- *   node scripts/transform_new_format.mjs <input.tsv|csv> <output.csv>
+ *   node scripts/transform_new_format.mjs <input.tsv|csv> <output>
+ *
+ * If <output> ends in .csv, all rows go to that single file.
+ * Otherwise <output> is treated as a directory and rows are split by
+ * sprint_id into sprint_<id>.csv (e.g. sprint_rsp9.csv).
  *
  * Auto-detects delimiter (tab or comma). Discards columns not in the canonical
  * schema. Tertiary reason is dropped intentionally (product decision).
@@ -159,14 +163,38 @@ function transform(inputPath, outputPath) {
     if (rec) out.push(rec); else skipped++;
   }
 
-  const csv = Papa.unparse({ fields: CANONICAL_HEADERS, data: out.map(r => CANONICAL_HEADERS.map(h => r[h])) });
-  fs.writeFileSync(outputPath, csv, 'utf8');
+  const writeGroup = (rows, target) => {
+    const csv = Papa.unparse({
+      fields: CANONICAL_HEADERS,
+      data: rows.map(r => CANONICAL_HEADERS.map(h => r[h])),
+    });
+    fs.writeFileSync(target, csv, 'utf8');
+    console.log(`  ${rows.length.toString().padStart(5)} rows → ${target}`);
+  };
 
-  console.log(`Wrote ${out.length} rows → ${outputPath} (skipped ${skipped} rows with invalid score)`);
+  console.log(`Parsed ${out.length} rows (skipped ${skipped} with invalid score)`);
   console.log(`Delimiter detected: ${delimiter === '\t' ? 'TAB' : 'COMMA'}`);
   console.log(`Header mapping used:`);
   for (const [canonical, src] of Object.entries(headerMap)) {
     console.log(`  ${canonical.padEnd(22)} ← ${src}`);
+  }
+
+  if (outputPath.endsWith('.csv')) {
+    writeGroup(out, outputPath);
+    return;
+  }
+
+  // Directory mode: split by sprint_id.
+  fs.mkdirSync(outputPath, { recursive: true });
+  const groups = {};
+  for (const rec of out) {
+    const key = (rec.sprint_id || 'unknown').toLowerCase().replace(/^sprint\s+/, '').replace(/\s+/g, '');
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(rec);
+  }
+  console.log(`Splitting by sprint into ${outputPath}/`);
+  for (const [key, rows] of Object.entries(groups)) {
+    writeGroup(rows, path.join(outputPath, `sprint_${key}.csv`));
   }
 }
 

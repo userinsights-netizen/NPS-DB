@@ -1,0 +1,930 @@
+respondent_id,score,feedback,nps_reason_primary,nps_reason_secondary,primary_category,plan_type,city,tenure_days,source,sprint_id,sprint_start,device
+7827314225,0,Tumhari service bekar hai darma macha rakha hai tumhara custumer care bekar tumhara pura office bekar hai,General Bad Service,Bad Customer Support - Call Centre,,,Delhi,45,CT,Sprint RSP8,2026-05-22,GX
+9716021742,10,"""अच्छी सुविधा मिल रही है""",General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9759783691,10,,,,,,Delhi,45,CT,Sprint RSP8,2026-05-21,SY
+9811863103,10,"""ताकि Wiom Net हमें बिल्कुल क्लीन फीचर देता है और हम अपनों सभी को Wiom Net use करने की सलाह देंगे।""",General Good Service,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7827354057,1,Ok,N/A,,,,Delhi,45,WA,Sprint RSP8,2026-05-20,GX
+9643233139,10,"""आपका नेट अच्छा चलता है और और तुरंत solution निकलता है।""",General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8445741214,0,Net speed bekaar hai mujhe chutiya bana diya dusre logon ne,Slow Speed,,,,UP,45,CT,Sprint RSP8,2026-05-20,GX
+9854189259,0,No internet for 12 hrs,Internet Down,,,,Delhi,45,CT,Sprint RSP8,2026-05-22,GX
+9555502204,10,"""बहुत ही सुंदर सर्विस, थैंक यू बियोम।""",General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9217976813,7,Kyu ki mera net sahi se chlta nahi hai kabhi kabhi,Slow Speed,Frequent Disconnections,,,Delhi,45,WA,Sprint RSP8,2026-05-20,GX
+7678487807,10,"""हम व्योम नेट यूज करते हैं।""",General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8595599205,8,Very nice,General Good Service,,,,Delhi,120,CT,Sprint RSP8,2026-05-23,GX
+9079427157,0,Very slow internet speed.,Slow Speed,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+8789022480,0,इंटरनेट कनेक्शन दिन में 20 से अधिक बार अपने आप लगातार डिस्कनेक्ट हो रहा है।,Internet Down,,,,Delhi,120,CT,Sprint RSP8,2026-05-20,GX
+9152831741,10,Accha chal rha he,General Good Service,,,,Mumbai,120,WA,Sprint RSP8,2026-05-20,SY
+9910674366,10,Accha hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9528807074,10,Acchi sewa,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+9702311279,0,"Worst Service Ever, Even after Recharge Data doesn't work properly","RDNI (Recharge Done, No Internet)",General Bad Service,,,Mumbai,120,WA,Sprint RSP8,2026-05-20,TP
+8588822655,10,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-20,GX
+9654901059,10,Acha ha speed bhi acchi hai,Good Speed,,,,Delhi,45,WA,Sprint RSP8,2026-05-21,GX
+9891611806,10,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-23,SY
+9407579199,10,Achcha Laga,General Good Service,,,,UP,200,CT,Sprint RSP8,2026-05-20,GX
+9891204486,10,Achha chalta h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8860966311,10,"Achi service,",General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7836062073,3,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-21,GX
+9811155790,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8595843001,1,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9217419186,5,,,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+9217002859,10,Assdddggh,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+6397242819,10,Bachat bhi ho rhi h,Affordable,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+9310554239,0,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-20,GX
+8800361041,10,Bahut achcha chalta hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9310074137,0,Mera net 10:51am pr khatam hona tha 6 bje kese ho gya utr kr le jao apna net box,"RDNI (Recharge Done, No Internet)",,,,Delhi,120,CT,Sprint RSP8,2026-05-21,GX
+8130202256,0,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-24,GX
+9758854297,0,Jab dekho tab net band hota Hai main to kisi ko bhi wiom net lagane ki salah nahin dungi,Frequent Disconnections,,,,Delhi,120,WA,Sprint RSP8,2026-05-21,SY
+9140799958,10,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-22,GX
+9891712035,6,Kuch nahi,N/A,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+7011991907,0,Sabse ghatiya service sabse bekar company maine ajj tak esi bekar service kabhi nahi dekhi thi iss wiom net ko lagwakar main bhot pareshan hua jo pehle kabhi na hua tha,General Bad Service,,,,Delhi,120,CT,Sprint RSP8,2026-05-24,GX
+8287771435,10,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-22,SY
+9599677616,5,क्योंकि एक तो प्राइस थोड़ा ज्यादा है और नेट रुक-रुक कर चलता है।,Frequent Disconnections,Expensive,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+9540050242,0,"Wiom net ke charges bhut high hai har insaan afford nhi kar skta sirf 28 din woh bhi 565 ke liye isse accha toh koi aur hi net lgwa le taaki 500 me toh pure mahine ka mile , iske paise wiom waale ese mangte hai jaise pta nhi kitna mbps de rhe ho aur network slow chlata hai , yeh sabse bade Karan hai jinki wajah se me kisi ko recommend nhi krunga",Expensive,Slow Speed,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+9711993771,0,Poor service,General Bad Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-21,GX
+7678593856,10,,,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+9599862073,0,Ghatiya,General Bad Service,,,,Delhi,120,CT,Sprint RSP8,2026-05-21,SY
+7217603208,1,Network good working in first some days now our network work slowly.,Slow Speed,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+7011524979,5,,,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+9625952513,10,,,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+7838684151,0,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-22,GX
+8802633228,10,Service,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-21,SY
+8368260126,5,Sab kuch shi h bas net thoda slow chalta hai 100 mbps speed ka recharge huawa hai humra lakin 100 mbps wali speed nhi ati hai,Slow Speed,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+9267953247,0,,,,,,Delhi,120,CT,Sprint RSP8,2026-05-20,GX
+8588089744,0,Because of every 3 days net automatically slow down and,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9958511071,0,Q ki ye nett bss 5neter k andar chlta bass or kbhi bh iska connection bhag jata h,Range Issue,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9911957566,0,net sahi nhi chalta,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7900930765,10,Net sarver acha ata h,General Good Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9910761938,0,Bekar network,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9958340550,6,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8448456213,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9625943997,8,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7291834551,10,Bahut bahut badiya hai,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+7838339182,2,Because you give only 28 days rechrge and if any problem with network not working restoration time is very high,28-Day Plan Issue,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9873200403,10,Best internet,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8287515984,8,Network Achcha hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9560148446,9,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8285178174,6,Nice,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9137779838,0,Nahi very bad network,General Bad Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+7906226012,10,Best price and very fast issues solving and very good network speed,General Good Service,Good Speed,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8920166671,3,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9625729457,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9873846035,10,Best net,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9211379987,0,Network nhi aata bhot time or company se rate bhi jada hai,Frequent Disconnections,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+7835883797,10,best service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8882713775,8,Haa kiyo nhi,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9958676598,10,Best service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+8800446082,10,Network issue à¤œà¤²à¥à¤¦à¥€ solve à¤¹à¥‹ à¤œà¤¾à¤¤à¥€ à¤¹à¥ˆ,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8505938620,0,à¤‡à¤¸à¤®à¥‡à¤‚ à¤à¤• à¤¦à¤¿à¤¨ à¤¦à¥‹ à¤¦à¤¿à¤¨ 14 à¤¦à¤¿à¤¨ à¤•à¤¾ à¤°à¤¿à¤šà¤¾à¤°à¥à¤œ à¤ªà¥à¤²à¤¾à¤¨ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ,28-Day Plan Issue,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7417012824,0,Ek daam bekar service ha 3 se 4 din baad rha mera internet koi aaya tak Nhii call complaint sab krne k baad 4th day person aata h or na hi koi un down internet ka paisa mila ya coupon na hi adds kiye h,General Bad Service,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9968225596,10,Nice service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9718650102,10,Very very good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8700823585,1,Network problem,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8130353578,10,Better network connection,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9911806490,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9217296253,9,,,,,,,200,CT,Sprint RSP8,2026-05-20,
+9971600567,10,Better service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9318416423,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9990911844,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8802707549,0,Break down frequently.less speed..worst customer care.,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9899283058,10,Very nice services ðŸ‘Œ,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7895912235,7,Kabhi kabhi net kafi ache aate hai toh kabhi kabhi red light aanelagti ha wifi me isiliye network hi nahi aate,Frequent Disconnections,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8285755959,10,Nethar achcha chalta hai per ek hi,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7703972220,0,Bich bich me kabhi bi band ho jata hai problem zyada hai kabhi bi kaam karna band kr deta hai abi problem chal rhi hai net chal hi nhi rha hai isko plzz shi karaiye month pehle hi 28 ka hota hai payment pura jata hai lekin pure 28 din sarvice mil nhi rhi kabhi bi band ho jata hai please isko shi kijiye pareshani hoti hai hame,Frequent Disconnections,28-Day Plan Issue,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7060088209,10,Yes,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8766240429,8,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9818884659,2,à¤¸à¤®à¤¯ à¤¸à¥‡ à¤²à¤¾à¤­ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¾,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9899943966,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9557460760,10,,,,,,UP,200,CT,Sprint RSP8,2026-05-20,GX
+9891895958,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8130708307,0,Because I also plan for discontinued the same. Your Service and speed both are not good.,General Bad Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7557628798,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+7982902225,10,Bina ruke net chalta hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9315868959,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+6201326286,0,It's been four days since I recharged and I still haven't been able to use the internet.,"RDNI (Recharge Done, No Internet)",,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9315439286,0,Har do din baad wifi chalna band hojata hh customer care ko phone karke bhi fayda nhi wo kehtey hai solve kardengey issue but nhi kar paate time lgta hai mai nhi chahti ke mai wiom ka wifi kisi ko suggest Krna chahungii..,No/Late Complaint Resolution,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9857079438,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9211082930,0,Bakwas network,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8368939357,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8076837470,0,Nahi chalta,Internet Down,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9818473010,10,Cheap and good speed,Affordable,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9899688517,0,Pahle 500 rs ka recharge bataya tha ab 600 rs le rhe hai,Expensive,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8427138854,10,Good,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9599367193,3,Poor speed,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8882297789,4,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7303641430,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8178821253,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+7678489297,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9953267570,2,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8851058043,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+8860145976,10,Correction clear is on time,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9315422230,5,Kyuki phone me ye 12 hours 9 rs me milta h but setup box me 23 se starting h wo bhi 24 hours ki ye glt h setup box me bhi 6 hours and 12 hours wala option hona chahiye,28-Day Plan Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8929113709,2,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8700137380,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9319914427,10,"Decent Internet speed in budget, Plans flexibility of 1 day, 2 day, etc, and good service and customer support.",Good Speed,Affordable,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8745885418,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8448355415,0,à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• issu à¤¬à¤¾à¤° à¤¬à¤¾à¤° no à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆà¤‚,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9871106627,10,Easy to reachable and affordable,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9953227783,5,Sahi chalta hai hai aur ko complete nhi aae hai,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8130525770,6,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8840274479,1,Average,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+7065675981,10,Fast service,Fast Complaint Resolution,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9540917282,10,Fast service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+7065927752,5,Mere ko isliye achcha lagta hai kyunki yah price mein bhi sahi hai aur iski 50 MBPS ki speed bahut acchi aati hai aur ismein gaming bhi bahut acchi Hoti Hai Bus mujhe ek complain hai ki mere ko iska box wifi ka vah purana wala lagaya hai bus mujhe yah karna hai ki vah naya Laga De mere Ghar per Aakar,Affordable,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8800435405,0,Net baar baar ruk jata hai abhi bhi ruka hua hai,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9818958785,10,Excellant speed,Good Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8368736114,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,TP
+9718119975,10,Fasting,Good Speed,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+9267973023,5,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7056714016,1,Kuch b vjah nahi h sabse gatiya Wiom ki Wi-Fi h puri raat net gaayeb rhta h,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8097123071,0,No internet service.no data reimbursement,Internet Down,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+9319733487,0,"Daily , your internet stop working for 2-3 hrs",Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9266763898,10,WAJAH YE HAI KI MERA NET MAST CHALTA HAI OR KABHI BAND HO JAAYE TO CUSTOMER SUPPORT BHI EK DAM MIL JAATA HAI,Good customer Support - call centre,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9756629894,0,Services deley,No/Late Complaint Resolution,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9193225145,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9310653466,0,Speed as required nhi hai range sahi nhi h.. yeh sirf 1-2 kamro tak hi range deta hai uske aage yeh work nhi kar rha,Slow Speed,Range Issue,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8750287217,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+7428463062,0,Mere ghr ka network bhut bekar h buffering h bar bar disconnect hota h,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9810443495,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8076063340,10,Jitne din bhi ho gye ho net achha chala hai or agr koi problem bhi hoti hai toh jaldi thik ho jati hai..,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9711160661,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8299127073,8,à¤¬à¥‡à¤¹à¤¤à¤° à¤¨à¥‡à¤Ÿ à¤¸à¥à¤ªà¥€à¤¡,Good Speed,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9582308344,0,Network issue always,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7065505169,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9650058013,10,Nice speed,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8700877922,10,à¤¯à¥‡ à¤¬à¤¹à¥à¤¤ à¤…à¤šà¥à¤›à¤¾ à¤²à¤—à¤¤à¤¾ à¤¹à¥ˆ,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+7709608664,10,Gaurav bhise,N/A,,,,Mumbai,120,CT,Sprint RSP8,2026-05-22,GX
+8178877455,10,Excellent snd prompt resolution of the concern,Fast Complaint Resolution,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8860227534,0,Net nahi chalta thik se,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8744021455,10,Good experience,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+8287963358,10,Good h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9369237943,0,Net is always having network issue,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9582691313,10,Good sarvice,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9310371933,10,Bahut aacha,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9213116043,1,Always 2 to3 days I will call technical technician,No/Late Complaint Resolution,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7290838352,6,"Apka wifi 28 din ki jagah 24-25 din chalta h 
+ Bich bich me net chala jata h 
+ Aur validity 30 din ki kro",28-Day Plan Issue,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9582725730,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8368254646,2,Bekaar service,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9899905510,3,Internet connectivity issue usually face.,Internet Down,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8860644791,8,Best Network.,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9310766385,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9997080669,0,,,,,,UP,200,CT,Sprint RSP8,2026-05-23,GX
+7065506277,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8447640235,10,Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9997477865,2,My net was continuously closed for 4 days. I raised my complaint on costomer care but it re-start after four days,No/Late Complaint Resolution,Frequent Disconnections,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9540837860,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9871700765,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9621448866,10,Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8368261187,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9076046230,1,10,N/A,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,GX
+8051262032,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9837109398,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8691847249,10,10,N/A,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,TP
+9711955527,10,Good service & support,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9540173094,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7065411515,10,Rate acha h netwrk bhi ache h,General Good Service,Affordable,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9069515019,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8470008979,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7505983620,0,Iski service bekar h,General Bad Service,,,,UP,200,CT,Sprint RSP8,2026-05-21,GX
+9670850429,4,4,N/A,,,,UP,200,CT,Sprint RSP8,2026-05-24,GX
+7505962948,10,,,,,,UP,200,CT,Sprint RSP8,2026-05-22,SY
+8929275253,3,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7065756028,2,Cupan ni milte ab,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8920206779,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8076773443,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8958902423,0,Sabse ghatiya service jiski,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+8130618924,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9719748481,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7065406852,0,Wi-Fi bilkul bhi nahi chal raha kabhi ek ghante mein aata Hai to kabhi 2 ghante mein a jaaye vah bahut hi dhire chal raha hai,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8475888124,0,Wiom ki seva thik ni h,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8920767320,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7454809421,10,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+8285626206,10,Good service and valuable price,General Good Service,Affordable,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9211910674,0,Pese kat gye recharge hua nhi,"RDNI (Recharge Done, No Internet)",,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9599977740,0,Net speed lov,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9818823844,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9372556009,0,Bhohot Ganda,General Bad Service,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+8130483223,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+7678324535,0,Bilkul bhi nhi dena chahte or agar boh lagane ki punchta toh or mna kar dete or jiske yaha laga hota toh usse bhi hatbane ki keh dete itna ganda wifi hai chalta hu nhi hai or service center phone karo toh tabhi sahi nahi hota or toda sa chal jaye toh fir se apni aukaat peh aa jata hai mein toh yahi kahunga ki raddi bhar ka wifi hai,General Bad Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7011005654,5,Shaam ko speed of data is less. Frequent disconnections or lags,Slow Speed,Frequent Disconnections,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9588140871,0,Bkwas,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8287284963,10,Gud service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9873038506,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9911197596,0,Boht slow chlta hai or complaint krne par koi call bhi uthata hai,Slow Speed,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9971447160,0,Net speed very slow,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8735953691,9,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9278032092,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9958093492,10,Very good network,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8920589961,9,,,,,,,200,CT,Sprint RSP8,2026-05-22,
+9953529522,10,Best wifi wiom,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8279676591,7,Kabhi bhi red light on ho jati hai,Frequent Disconnections,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+8882339372,8,,,,,,,200,CT,Sprint RSP8,2026-05-23,
+7011704248,9,Hamen acchi service Mili Hai network bhi Sahi aate Hain hamare yahan to Koi dikkat wali baat nahin hai aur baat bhi dhang Se karte Hain customer se aur hamari samasya ke kuchh ghante se pahle alag jaati Hai,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9716225661,0,I want to note that the Wi-Fi speed is not working as well as it did in the starting days. The internet has become much slower now.,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8826281813,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9953421771,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7017616849,3,Wiom 5g network bhut acha hai but wiom ka 4g network bhut slow hai.,Slow Speed,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8700989768,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9821919704,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9372365835,0,nhi,N/A,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9599019008,1,Sir apke plan me 28 din pure nhi hote net band ho jata h jaise samjo mera net ki last date 2 hai toh ye subha ya shaam ko band ho jata h raat 12 bje tak toh net on hona chiye,28-Day Plan Issue,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9310142718,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7210280571,3,Sabhi chor hai wifi ke password ke liye kuch bhi kar sakte hai isliye me sirf wifi ki limit 3 ki hi rakh Raha hu,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9971980223,8,à¤•à¤­à¥€ à¤•à¤­à¥€ à¤¨à¥‡à¤Ÿ à¤§à¥€à¤®à¤¾ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8851736450,10,Net service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9643795290,5,10,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9311219556,0,"Isko lagwa kar mene bhut badi galti kardi or me kisi ko suggest nhi karunga, na service achi na speed achi har dusre din faulty hota hai yeh very",General Bad Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9711258928,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+7895721887,0,,,,,,UP,200,CT,Sprint RSP8,2026-05-22,GX
+9266057757,3,Shayed hi dunga ..kyuki kbhi kbhi speed km aata h,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8510990879,10,Hemara net bahut Accha chal raha hai is liya ham log jitna ho sakya utna logo ko Jankari denge ki bo bhi biom net ko Accha sa istmal kar saka. Thanks for Wiom net,General Good Service,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+6396261284,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8588811402,10,10,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9217817542,0,Abhi bhi net slow hai,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8130631520,7,Some time netwot service not working but speed is very Good plan 575 rs.,Frequent Disconnections,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9811332959,10,service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8826132887,0,Bad service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8700190971,10,Ok,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9717710164,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8383978969,2,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9911500502,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7042973008,0,poor sarvice,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9557784479,10,High speed net in very less price,Good Speed,Affordable,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+9315184846,9,High speed net quality,Good Speed,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,SY
+7532958067,0,All team is wrong comment all time fake comment,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8929819970,1,Bad quality and ground staff very roudly no have any manners to how to deal waith coustomer bad experience,Bad Customer Support - Technician,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9716160660,5,Recharge karne ke 2-3 baad net band ho jata hai,"RDNI (Recharge Done, No Internet)",,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7701807152,0,Uski sab se badi wajah ye hai ki net chalta hi nahi hai aur agar chalta bhi hai to bohut hi zada slow chalta hai,Slow Speed,Frequent Disconnections,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8447721765,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9311679458,5,Complain service bohot hi ganda hai lag bhag 24 hours ka wait karna padta hai,No/Late Complaint Resolution,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8368728556,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8477832915,0,Slow network,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9540342612,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+7678580035,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9871450421,7,Pichle 40 hr se wiom wifi nhi chl rha complaint bhe 10 baar krdi lekin abhi tk problem solve nhi hui,No/Late Complaint Resolution,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9991730730,6,Slow speed,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9560598381,2,Iski service kafi bakwas hai 24 ghante se phela Shai nahi hoti muje kam karna main kafi taklif hota hai bass kam chalo Kam kar raha hai,No/Late Complaint Resolution,General Bad Service,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7835968519,6,Aapka vyom net thoda à¤…à¤Ÿà¤•-à¤…à¤Ÿà¤• ke chalta hai à¤°à¥à¤•-à¤°à¥à¤• kar chalta hai isliye maine aapko 6 number diye hain aap isko acchi tarah Se Sahi Kar De to aapko 10 number bhi denge,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9717219404,0,Speed nhi h kabhi kabhi koi side tak open nhi hoti ek message tak send nhi hota,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9355683550,5,Thik h acha chal rha h magar kabhi kabhi bich bich me rukawat ati h,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9354181531,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9990400352,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+6200474016,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+7065139195,10,Ok,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9716357121,0,2 din se band hai koi sunwai nahi hai,No/Late Complaint Resolution,Internet Down,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8448738604,10,I am Happy for my internet,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+8920482428,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8882646598,10,Mujhe eske network kiya sahi lge es liye 10/10,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8178883604,10,Sahi chalta hain nett,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9718783270,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+7017920352,0,Poor service week me 2 din net nhi aata kabi speed nhi aati,Slow Speed,Frequent Disconnections,,,UP,200,CT,Sprint RSP8,2026-05-21,GX
+8929657736,6,"No internet from night anytime wire cut from outside this is my 2nd connection but this is pathetic service I m seeing I cant call you guyss again and again for the net fix it asap .............,............................................................................................................................................................................................................................................................................................................................",Frequent Disconnections,No/Late Complaint Resolution,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+7011442844,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9625201007,5,Network issue rehta hai most of time night mai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8377807425,7,BTS member is my inspiration,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9128623070,0,Very bad experience,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8447777108,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9716489371,10,Kyuki kehne pe aa jate h yadi time se bola Jaye to,Good customer Support - call centre,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9625777638,0,"Wiom net is very bad , Esme network issue etna hota hai ki , bhar bhar Signal Hi chla jtha hai kisi bhi time pr ,, hmara work rukh jtha hai,, aur data ka issue bhi jldi nhi thik hota hai",Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9336983687,10,,,,,,UP,200,CT,Sprint RSP8,2026-05-21,GX
+9142222872,6,Kbhi kbhi network bilkul nahi rehta hai aur customer service v actively kaam nh krta hai,Frequent Disconnections,Bad Customer Support - Call Centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7678258213,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7839456550,8,Y,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9599354533,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9389754166,10,Installation sarvice was good,Quick Installation,,,,Delhi,45,WA,Sprint RSP8,2026-05-20,GX
+7319854618,3,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8826675853,10,Internet good working,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8826871766,8,"Some time it gets disconnected during peak timing of study 
+ Overall affordable and effective",Frequent Disconnections,Affordable,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7488669490,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9627171891,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9910995335,10,10,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8447275449,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9582077610,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8308863340,0,Network problem,Internet Down,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+7037472940,10,Good,N/A,,,,UP,200,WA,Sprint RSP8,2026-05-21,SY
+8010251961,0,Net speed Apki mb se jyda ati nhi hai,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8527572194,10,Internet quality was so good ðŸ‘ðŸ» and service was also good to that's the reason and I'm glad I choose wiom Internet thanks ðŸ™ðŸ»,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9911839624,10,Kyuki network achha chata hai but kabhi kabhi kafi der ke liye ruk jata hai jo acha nhi hai...but wiom humesha har problem ko solve kar. Detaa hai...,General Good Service,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9990986603,10,All ok,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8210341828,0,Very frustrated with this connection i am facing the same issues every second day iâ€™m very disappointed,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9899721981,10,Very nice good wiom connection,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8920481969,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7428770382,0,"even i also don't like your service and such a bas service of wiom , i will never refer to my friends",General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9643324288,10,Ji bilkul dete ha,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9999072094,8,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7028553348,0,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-22,GX
+9711861183,8,Yeh score dene ki wjhse ye h ki bich bich me net itna slow ho jata h ki ofs ka kam krne me itniproblm ati h,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9971657121,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9058591791,5,Theek hai jada accha nahi hai,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9971806615,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8923031920,0,,,,,,UP,200,CT,Sprint RSP8,2026-05-22,SY
+8800825136,1,Thodi der me kaam pura,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9540217041,0,Service bekar chal rahi hai apki 2 din se net band pada hai,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8448039422,0,28 days ke recharge main 10 days net k,28-Day Plan Issue,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+7217623816,10,Kam rate or har jagah uplabdh,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8527225992,10,Sahi hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9412686843,0,à¤ªà¤¹à¤²à¥‡ à¤¸à¤¸à¥à¤¤à¤¾ à¤¥à¤¾ à¤¸à¤¾à¤¡à¥‡ â‚¹500 à¤•à¤¾ à¤¹à¥‹à¤¤à¤¾ à¤¥à¤¾ à¤”à¤° à¤‡à¤¸à¤®à¥‡à¤‚ à¤ªà¥ˆà¤¸à¥‡ à¤¬à¤¢à¤¼à¤¾ à¤¦à¤¿à¤ à¤‡à¤¸ à¤µà¤œà¤¹ à¤¸à¥‡ à¤•à¤Ÿà¤µà¤¾à¤¨à¤¾ à¤ªà¤¡à¤¼à¥‡à¤—à¤¾,Expensive,28-Day Plan Issue,,,UP,200,CT,Sprint RSP8,2026-05-23,GX
+8607040742,3,OK,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7208930316,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8750646532,10,Kionki hamara net acha chalta,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8287525860,0,Problem jada h wiom me,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7385055425,10,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-22,GX
+9616619698,0,0,,,,,UP,200,CT,Sprint RSP8,2026-05-22,GX
+9873234425,0,Pahle bohot accha chalta tha ab bahut ruk ruk kr chalta he,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9594956262,5,"Net or service bahot badiya hai... Lekin 5 isiliye kyu k prices bada rahi hai WIOM jo pahele affordable tha ab woh expensive hone ja raha hai 50 se 80rs per month bada kar tho isse aapke counts kam hone ki puri ashankay hai. Because local net wala 400 rs mein 50mbs deta hai. 
+ Best of luck",Expensive,General Bad Service,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,GX
+8287094520,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9919824331,0,network problem bahut jyada hai. jab isme sudhar hoga tabhi ham dusro ko recommend karenge,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9616517007,0,Very bad network,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-21,SY
+8920307601,0,WiFi range is too bad and sometimes or most of the time WiFi is not working,Range Issue,Internet Down,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9625753162,0,Pooor services,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8076233810,0,"Net nhi chalta, aaj b nhi chal rha or koi customer support b nhi h",Internet Down,Bad Customer Support - Call Centre,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9716508771,2,Speed issue and network issue,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7977916840,7,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-24,SY
+9696082181,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8920077588,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9899658101,10,Wiom ka net bahut dhire chalta hai jab Main important kam karta hun tab yah bahut à¤§à¥€à¤°à¥‡-à¤§à¥€à¤°à¥‡ chalta hai aur ghar barish mein red light aati rahti hai aur kabhi Chali jaati Hai,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7678459585,9,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9458211785,10,Network quality,General Good Service,,,,UP,200,CT,Sprint RSP8,2026-05-24,GX
+9310517514,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9311763527,0,bad sevice worst wifi ever in my life not work properly,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7819055049,5,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8899094548,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9568471607,0,Recharge karane ke 3 din baad internet seta hai,"RDNI (Recharge Done, No Internet)",,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+7827374703,1,"Automatically net chala jata roz,",Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8218331821,0,Eski espit or ab eska richang bhi mehnga kar Diya hai,Expensive,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8287228470,0,Hmara net ruk ruk kr chlta h speed ni aati bhot tym lgta h kbhi bhi net bnd hojata h,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8920709132,8,Taki sabhi log wiom net ka labh utha ske,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8882880210,0,à¤¤à¥€à¤¨ à¤¦à¤¿à¤¨à¥‹à¤‚ à¤¸à¥‡ à¤²à¤—à¤¾à¤¤à¤¾à¤° à¤®à¥‡à¤°à¤¾ à¤¨à¥‡à¤Ÿ à¤¬à¤‚à¤¦ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ à¤®à¥à¤à¥‡ à¤¬à¤¹à¥à¤¤ à¤¦à¤¿à¤•à¥à¤•à¤¤ à¤¹à¥‹à¤¤à¥€ à¤¹à¥ˆ à¤”à¤° à¤®à¥ˆà¤‚ à¤¤à¥‹ à¤…à¤ªà¤¨à¤¾ à¤­à¥€ à¤¹à¤Ÿà¤µà¤¾à¤¨à¤¾ à¤šà¤¾à¤¹ à¤°à¤¹à¤¾ à¤¹à¥‚à¤‚ à¤…à¤—à¤° à¤¯à¤¹ à¤¦à¥‡à¤–à¤•à¤° à¤ à¥€à¤• à¤¨à¤¹à¥€à¤‚ à¤¹à¥‹à¤—à¥€ à¤¤à¥‹,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7290879319,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8709469577,0,Internet issue after every 2-3 days,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9718203859,10,Kuch nahi,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9560907652,3,Net dropped many times.,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9911265837,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7011408045,10,Best plan value of money,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8527847071,0,0,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9452745418,10,à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤…à¤šà¥à¤›à¤¾ à¤¹à¥ˆ,General Good Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9671396002,3,"à¤¸à¥à¤²à¥‹ à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤•,5g à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤¸à¥à¤ªà¥€à¤¡, à¤Ÿà¤¾à¤ˆà¤® à¤¸à¥‡ à¤ªà¥‡à¤®à¥‡à¤‚à¤Ÿ à¤…à¤ªà¤¡à¥‡à¤Ÿà¥à¤¸ à¤¨à¤¹à¥€à¤‚ à¤¹à¥‹à¤¤à¥€,
+ à¤”à¤° à¤šà¤²à¤¤à¤¾ - à¤šà¤²à¤¤à¤¾ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¬à¤‚à¤¦ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ à¥¤
+ à¤‡à¤¸à¤¸à¥‡ à¤…à¤šà¥à¤›à¤¾ à¤¤à¥‹ à¤à¤¯à¤°à¤Ÿà¥‡à¤² à¤”à¤° à¤œà¤¿à¤¯à¥‹ à¤•à¤¾ à¤¹à¥ˆ à¥¤à¥¤",Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8233288368,2,Working good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7827360262,10,Good network,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+7877341139,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9999985023,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8802428550,0,Speed wrost,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8828083484,5,Service Is not Satisfying,General Bad Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,SY
+8010397240,10,Kunki y hr ghr sasta net h bhut behter h,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8700453621,0,à¤¸à¤°à¥à¤µà¤¿à¤¸ à¤¬à¤¿à¤²à¥à¤•à¥à¤² à¤¬à¤•à¤µà¤¾à¤¸ à¤¹à¥ˆ,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7078387289,7,Khabi kabhi network kaam nahi karta hai,Frequent Disconnections,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9667323015,0,There is network issue and payment issue,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8920866487,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8010558863,0,"The internet connection has been getting disrupted every alternate day, which is affecting work.",Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8755114328,7,Humre hi network nhi a rhe sahi se,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9899865760,0,Kuki abhi tk meri koi help nhi hui,No/Late Complaint Resolution,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+6397828620,0,Kyu ki aapki service acchi nahi Hai,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9625265353,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9716929934,10,Kyoki isme recharge ke kai vikalp hai,Affordable,,,,Delhi,45,WA,Sprint RSP8,2026-05-20,GX
+9818968096,0,Worst wifi network i use in jy life,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8076167316,5,"Sometimes it works fine, sometimes it doesn't, sometimes it can be very problematic, so there is a 50:50 chance of giving Wiom's advice to relatives.",General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9594862148,5,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-22,GX
+8850601101,9,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9582098527,2,Chalte chalte band ho jata hai net,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8355952837,10,10,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8909022786,0,,,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+8076022584,0,Net problem,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9999631764,0,bakwas,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9718491563,8,Sasta hai,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8742985881,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8755161497,8,Good running,General Good Service,,,,UP,200,CT,Sprint RSP8,2026-05-20,SY
+9997042375,5,Network thori dikkat karta h,Frequent Disconnections,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9013626496,0,à¤•à¥à¤¯à¥‹à¤‚à¤•à¤¿ à¤®à¥‡à¤°à¥€ à¤¬à¥‡à¤Ÿà¥€ à¤•à¥‡ 10th à¤•à¥‡ à¤ªà¥‡à¤ªà¤° à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚ à¤µà¤¹ à¤¬à¤¹à¥à¤¤ à¤ªà¤°à¥‡à¤¶à¤¾à¤¨ à¤°à¤¹à¥€ à¤¹à¥ˆ à¤‰à¤¸à¤•à¥€ à¤ªà¤¢à¤¼à¤¾à¤ˆ à¤®à¥‡à¤‚ à¤¦à¤¿à¤•à¥à¤•à¤¤ à¤°à¤¹à¥€ à¤¹à¥ˆ à¤µà¤¾à¤ˆ-à¤«à¤¾à¤ˆ à¤•à¥€ à¤µà¤œà¤¹ à¤¸à¥‡ à¤”à¤° à¤¬à¤¾à¤°-à¤¬à¤¾à¤° à¤‰à¤¸à¥‡ à¤µà¤¾à¤ˆ-à¤«à¤¾à¤ˆ à¤®à¥‡à¤‚ à¤°à¥‡à¤¡ à¤²à¤¾à¤‡à¤Ÿ à¤† à¤œà¤¾à¤¤à¥€ à¤¹à¥ˆ à¤”à¤° à¤«à¥‹à¤¨ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤¬à¤¾à¤¦ à¤­à¥€ à¤¤à¥à¤°à¤‚à¤¤ à¤°à¤¿à¤œà¤²à¥à¤Ÿ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¤à¤¾ à¤¹à¥ˆ,Frequent Disconnections,Bad Customer Support - Call Centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8527971982,9,Kyu ki internet ka speed bhi bahut achi hai or kabhi router me yaan cable me koi dikkat nahi aayi,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8587988228,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+7827573848,10,Network speed is good,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8595351475,4,Not good,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8802731900,10,Mere.ghar.ka.wiom.,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8007290705,10,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-23,SY
+9310266980,5,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9289452768,10,Very nice,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7827071253,10,Bahut achcha hai good,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+7011505710,10,Affordable price,Affordable,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8527449841,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9718830919,0,Hamara hamara Wi-Fi nahin chal Pa raha hai isiliye Main aur Kisi Ko yah lagane ke liye nahin bolunga,General Bad Service,,,,UP,200,CT,Sprint RSP8,2026-05-20,GX
+8920069642,0,Very bad service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9716588910,0,Kai baar cannect hone me problem hoti hai jab isme wion likha aata hai jab cannect nahi hota,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8447667644,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7982604567,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9818094894,10,8,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9650553075,0,Kyonki samasya ka samadhan nhi hua,No/Late Complaint Resolution,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9311478574,5,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8851554024,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8294149570,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8810202230,10,10,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9211439516,10,Very good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9667557618,6,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8178952489,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9871078499,10,Badiya Hain Ekdum Mazedaar WOW,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9837075353,10,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9654268246,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9811382632,0,I am not happy with service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9355335197,10,Net sahi chalta h installation ka koi charge nhi lagta or recharge bhuktan bhi kam h or 5G speed h,Good Speed,Quick Installation,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8700508015,10,Network accha he service bhi bhot badhiya he......,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8920726652,10,Mujhe pasand aaya ap ka net,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+9369960993,0,Bad service if anyone arrange a call to senior please arrange I wanna talk to badly,Bad Customer Support - Call Centre,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9540319865,10,10,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9818628219,5,Nice service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8368062087,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9899361988,10,Net bhut fast hai,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9310723254,0,Sir jabse mene wiom ka net lagwaya hai na tb se har mahina easa hota ki kabhi 2-3tk kabhi net ni chalta kabhi sigal nahi kabhi kux kabhi kux bhut bekar,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8882450796,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7982646211,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9220582283,7,Network issue bhaut problem aarhi dang se net nai chal raha hai ruk ruk ke 5g me bhaut issue hai,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9250263201,10,à¤¶à¤¿à¤•à¤¾à¤¯à¤¤ à¤•à¤°à¤¨à¥‡ à¤ªà¤° à¤œà¤²à¥à¤¦ à¤•à¤¾à¤°à¥à¤°à¤µà¤¾à¤ˆ à¤¹à¥‹à¤¤à¥€ à¤¹à¥ˆà¥¤,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7821001231,0,NETWORK PROBLM,General Bad Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,TP
+8826949005,0,poor network 1 mahine ke recharge me 4 5 dim net gayab rehta he,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9540007128,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8652606910,0,Network isuus,Frequent Disconnections,,,,Mumbai,200,CT,Sprint RSP8,2026-05-23,TP
+8130888095,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9808452476,0,,,,,,UP,200,CT,Sprint RSP8,2026-05-24,GX
+9610579043,10,Excellent ðŸ‘,General Good Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+8745934505,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9871868684,10,Net Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9953712741,10,Net ok chal rha h,General Good Service,,,,Delhi,120,CT,Sprint RSP8,2026-05-21,GX
+9536547071,4,à¤¸à¥à¤²à¥‹ speed à¤à¤‚à¤¡ à¤¬à¤¾à¤° à¤¬à¤¾à¤° disconnect à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ,Slow Speed,Frequent Disconnections,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9599393864,0,Har bar internet down ho jata hai poor facility hai,Internet Down,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9267978375,0,Your service is going badly daily. Every 2 days your net shutdown. We are facing net issue. My Work stucked between. I am not happy with your service. This is every month issue.,Frequent Disconnections,General Bad Service,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7503556947,0,Service quality very poo,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9821101226,1,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8001581988,0,Wiom ka net recharge 500 se 565 ho gya h jo ki acha nhi h. Phele hi thik tha 500 me 28 din. Me bikul mana karunga.,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7011307140,0,10 den to nat karab rhta h,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7835957094,5,"à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤¸à¤¹à¥€ à¤¨à¤¹à¤¿ à¤¹à¥ˆ,",General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7290099749,0,Net not working last 7 days to till now,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9981454915,0,Improve internet quality,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8510046147,0,Apka net kabhi shai nai chalta or na koi sunta,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9066500007,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9717300701,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9911987678,0,Humare yaha anya prakar k aur bhi achhe net paye jate h agr apko lgvana ho toh zrur btaiyega ðŸ’—,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7836030145,5,Isme,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9873847495,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9205512705,10,Kam pese or net sahi,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9324715185,2,Your internet connection is getting disconnected every 1to 2 weeks speed is ok,Frequent Disconnections,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,TP
+9318441195,10,Best network,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8077413656,10,,,,,,UP,200,CT,Sprint RSP8,2026-05-22,SY
+9045026630,0,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+7060385510,10,Net shi h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9315455674,0,Not good,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9958096130,0,range issue and speed,Range Issue,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8218373004,3,,,,,,UP,200,CT,Sprint RSP8,2026-05-20,SY
+7840819055,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9718971216,0,Poor experience,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9350076405,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+7827387782,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9311590068,10,Net speed acchi h,Good Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7503951106,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8920119162,0,Mera net bada slow chalta hai aur à¤•à¤­à¥€-à¤•à¤­à¥€ do SE teen din char din panch din band bhi rahata hai aapke technician visit nahin karte hain aur na customer care sunta Hai,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9212016931,7,à¤¨à¥‡à¤Ÿ à¤ à¥€à¤• à¤šà¤²à¤¤à¤¾ à¤¹à¥ˆ à¤®à¤—à¤° à¤¬à¥€à¤š à¤®à¥‡à¤‚ à¤ªà¥à¤°à¥‰à¤¬à¥à¤²à¤® à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ à¤‡à¤¸à¤•à¥‹ à¤”à¤° à¤¬à¥‡à¤¹à¤¤à¤° à¤•à¤° à¤¸à¤•à¤¤à¥‡ à¤¹à¥ˆà¤‚,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9625614585,10,Nice ðŸ‘,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8587853445,0,Price high and slow internet,Expensive,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8418831328,10,of course,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9555922995,0,"Poor internet services , no response, less discount, no field executive etc",General Bad Service,No/Late Complaint Resolution,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+9990929112,7,Sabhi dosto ke ghar pe dusro company ka wifi hai,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9582774032,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8700584302,10,One of the best internet service provider that I have come across in delhi. Dedicated and hard working staff.,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7807357881,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9997443972,4,Net kbhi bhi chla jata hai range 20 mtr pr bht kam ho jati hai,Frequent Disconnections,Range Issue,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8126956531,0,Interrupted internet,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7701856004,0,0/600,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9702682220,0,Barabar internet connection nahi hai,General Bad Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+7836025373,10,Accha h bus,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8851445719,10,à¤µà¥à¤¯à¥‹à¤® à¤•à¥€ à¤¸à¤°à¥à¤µà¤¿à¤¸ à¤¬à¤¹à¥à¤¤ à¤¬à¤¢à¤¼à¤¿à¤¯à¤¾ à¤¹à¥ˆ à¤”à¤° à¤®à¥à¤à¥‡ à¤¨à¥‡à¤Ÿ à¤šà¤²à¤¾à¤¨à¥‡ à¤…à¤­à¥€ à¤¤à¤• à¤•à¥‹à¤ˆ à¤¦à¤¿à¤•à¥à¤•à¤¤ à¤¨à¤¹à¥€à¤‚ à¤†à¤ˆ à¤¹à¥ˆ,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9370688266,9,App not working properly,Bad Application,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,GX
+6397182976,5,"Jayda dikat ha 
+ Range kam ha 
+ Buffering jayda ha",Range Issue,Slow Speed,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9354476087,10,Good,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+6396860629,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9541199378,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8447196619,0,Price high,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8340191170,0,Price increased unacceptablly,Expensive,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9837477433,0,à¤¯à¥‡ à¤ªà¥‚à¤°à¤¾ à¤®à¤¹à¥€à¤¨à¤¾ à¤¨à¤¿à¤•à¤² à¤—à¤¯à¤¾ à¤‡à¤¸ à¤¬à¤¾à¤° à¤®à¥à¤à¥‡ à¤‡à¤¸ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¸à¥‡ à¤à¥‚à¤à¤¤à¥‡ à¤¹à¥à¤µà¥‡ à¤®à¥‡à¤‚ à¤¸à¥‹à¤š à¤°à¤¹à¤¾ à¤¹à¥ à¤•à¤¿ à¤•à¤¬ à¤‡à¤¨à¤•à¤¾ à¤Ÿà¤¾à¤‡à¤® à¤ªà¥‚à¤°à¤¾ à¤¹à¥‹ à¤“à¤° à¤•à¤¬ à¤®à¥‡à¤‚ à¤‡à¤¨à¤•à¥‹ à¤¬à¤‚à¤¦ à¤•à¤°à¥‹ à¤‡à¤¸ à¤ªà¥‚à¤°à¥‡ à¤®à¤¹à¥€à¤¨à¥‡ à¤‡à¤¤à¤¨à¤¾ à¤ªà¤°à¥‡à¤¶à¤¾à¤¨ à¤•à¤¿à¤¯à¤¾ à¤®à¥à¤à¥‡ à¤‡à¤¸ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¨à¥‡ à¤•à¥€ à¤†à¤ª à¤¯à¤•à¥€à¤¨ à¤•à¤°à¥‡ à¤•à¤­à¥€ à¤•à¤­à¥€ à¤¤à¥‹ à¤®à¥à¤à¥‡ à¤¬à¤°à¤¾à¤¬à¤° à¤µà¤¾à¤²à¥‡ à¤¸à¥‡ à¤µà¤¾à¤ˆà¤«à¤¾à¤ˆ à¤²à¥‡à¤¨à¥€ à¤ªà¤¡à¤¼à¤¤à¥€ à¤¥à¥€ à¤‡à¤¤à¤¨à¤¾ à¤œà¤°à¥‚à¤°à¥€ à¤•à¤¾à¤® à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¥à¤¾ à¤“à¤° à¤µà¥‹ à¤­à¥€ à¤°à¤¾à¤¤ à¤®à¥‡à¤‚ 2 à¤¬à¤œà¥‡ à¤•à¤¹à¥€ à¤œà¤¾ à¤•à¤°,Frequent Disconnections,Slow Speed,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9870308504,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7532902506,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9819789648,5,Aapka wifi bar bar band ho jsta hai,Frequent Disconnections,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+7210612580,0,downloading and range,Slow Speed,Range Issue,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8169209367,10,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+9717076830,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9818606201,10,Good network,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8120919955,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8595773562,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9625338122,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9911212214,2,1 day net band raha mera nuksan hua,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8698080340,0,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+9560231370,0,Bhai mere pass wiom hai recharge karwa liya 10 din baad internet hi band kar diya bol diya humne wiom ki sewa band kar di hai,"RDNI (Recharge Done, No Internet)",,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9657522867,0,Very bad experience with wiom. Service also not good and proper.Any issues regarding wiom WiFi they not solved immediately. Many times internet is not working properly.. Im not satisfied with wiom,General Bad Service,Bad Customer Support - Call Centre,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,TP
+9818595394,3,No,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7532877407,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8449442479,0,Sabse mahanga hai aur Aaye din band hota rahata Hai,Expensive,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9718684649,10,Internet ðŸ›œ chalta hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+6306102068,0,This our services bad ðŸ˜­,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8383871163,10,Price thik h wiom ka,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8745853429,5,Slow,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9717099585,0,So bad internet conactivity,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8368866592,2,very bad every months its compulsory 2-4 days not working properly,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8505969854,5,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9319935215,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9650844250,7,Badhiya services net ki,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9717381651,1,"à¤†à¤ªà¤•à¤¾ à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤…à¤šà¥à¤›à¤¾ à¤¹à¥ˆ, à¤¹à¤° à¤¦à¤¿à¤¨ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¬à¥ˆà¤‚à¤¡ à¤–à¤°à¤¾à¤¬ à¤¹à¥‹à¤¨à¥‡ à¤¸à¥‡ à¤¬à¤¹à¥à¤¤ à¤ªà¤°à¥‡à¤¶à¤¾à¤¨à¥€ à¤¹à¥‹à¤¤à¥€ à¤¹à¥ˆà¥¤ Your network is good, every day there is a lot of trouble due to poor internet band.",Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9899535499,0,Always ded signals,Range Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8287824955,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8700573500,10,Net acha chalta h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9667538384,6,Har .6.7 Din Mein network Chala Jata Hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7856053134,5,Kyuki accha hai but kabhi kabhi issue hota hai,General Good Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8799728466,0,Ghatiya service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8126264175,0,Service thik nahi ha,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+8510868046,0,Mahine mein 10 din chalta hai 20 din band rahata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7977355287,0,Network service not proper the app also not showing proper details every time facing net problem issue,Frequent Disconnections,Bad Application,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9711640070,6,Good net sarvice,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9958718605,8,Yes,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9773764364,0,Customer support sai nhi hai enquiry solve nhi krta... Or nha hi inka tecnician aata hai inke hi bhejne pr bhi.. internet chlta nhi h bhot kuch hai .... Nha hi lgaye to thik hai.. staff batameez hai khete hai apke yaha service provide nhi krenge..very bad,Bad Customer Support - Call Centre,Bad Customer Support - Technician,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9015481013,0,Faltu h,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8755483893,10,Problam jaldi solve ho jati hai,Fast Complaint Resolution,,,,UP,200,CT,Sprint RSP8,2026-05-23,GX
+7428061059,0,Net ka sahi se na chalna month me 5 ya 6 baar to complain karni parti h,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9289591858,0,Sabse ghatiya wifi hai net chalta hi nhi hai,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8439220192,9,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9560390953,8,Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9212172661,1,"Always recieved Network issue. 
+ Not good experience from whom",General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7065213346,0,Kyuki yai kabhi bhi ruk jata h or fir off karo on karo,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9818693919,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9810239889,0,Ghatiya net hai hamesha no internet access aata rehta hai net band ho jata hai mahine mein 28 din hot hai usmne se 12 se 15 din hi chalta hai bas baki din no internet access,Frequent Disconnections,Slow Speed,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+7838727567,0,Bhot bekar service 4 din se mera network nahi aaree or koi response nahi hai wiom ki taraf se mai isko hatvaaunga ab sabse buri service hai wiom ki maine or b company ka net use kra hai but sabse bura wiom hi laga mujhe to. . . . . . .,Frequent Disconnections,No/Late Complaint Resolution,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9650927491,10,10,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8882580163,1,Slow internet ðŸ›œ,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9326651577,8,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+8755761869,0,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9810395994,10,Itna kaam price mai itni achi speed,Affordable,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8882075576,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9599801131,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8287787554,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,TP
+8882682037,1,Speed acchi nhi hai,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7065956928,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+9971073163,3,Sahi sa speed nhi deta,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7042110700,0,Appka Dealing Sahi se baat nahi karta hai or na hi wifi sahi se chalta hai roj kharab rahta hai,Bad Application,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7503666392,0,Bhot bekar service h,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+7754901725,10,,,,,,UP,200,CT,Sprint RSP8,2026-05-20,GX
+8384036592,2,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+7290972385,0,Low speed net many times supply down your internet,Slow Speed,Frequent Disconnections,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8368933885,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9718116275,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7503603842,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7042341050,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,TP
+7042521737,10,Main bhut logo ko kha wiom ka wifi lagane ke liye,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8802043925,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8368315894,0,Bahut slow chalta hai net aur koi complaint karo to koi sunwai nhi hoti aur tin tin din net nhi chalta uske baad bhi company Koi coupon provide nhi karti,Slow Speed,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9205149883,10,Rate km hain speed achi h,Good Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+6396038911,5,baar baar internet bhaag jata hnn cal krke on krvana padta hn recharge hona k bavajut voh khta hn h ki kese or vo khta hn jo hanar internet on krta hn ki app dusra koi or wifi lag va lijyga,Frequent Disconnections,No/Late Complaint Resolution,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9105880304,0,Net nhi chalta recharge ke baad bhi jaise abhi,"RDNI (Recharge Done, No Internet)",,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9716817732,0,"Monthly recharge increase 
+ Internet speed slow",Expensive,Slow Speed,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9326835950,10,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-22,TP
+9540583338,0,Bad service and engineers not corporative and no any plan with otts.,General Bad Service,Bad Customer Support - Technician,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9625508141,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9811085914,0,Humra thik nhi chlta hai month m 15 din thik rahta hai aaj phir band ho gya customer service achi nhi hai sunwai nhi hoti aaj mera wifi chalu hoga to dugi refer,Frequent Disconnections,No/Late Complaint Resolution,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8882821163,9,Recharge kam karo wyom ka 500,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9250367988,2,Some Time internet is not working whole day,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8800274373,0,Network problem,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7065991199,0,"Any time , any day issue line cut.",Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8860129382,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9315497463,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+9311868363,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8287938375,0,Call me to tell you,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9718769058,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+6283523295,4,Monthly package bta har 27-28 day pe payment debit hoti hai means year me 13 month ki payment charge kri ja rahi hai customer se which is not guinine .,28-Day Plan Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8171766157,10,Haa,N/A,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+7503324050,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7836892393,10,Best network,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7738813195,0,Month me 10 din net nahi chalta,Frequent Disconnections,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9211443285,1,Very bad service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8178770800,1,Sabse ghatiya net h tumhara,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8595162460,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7011234087,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8178127987,2,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8700802926,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8449805361,10,Sabse badhiya,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8800727340,10,Sahi net chalta h wiom esleye,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9212914493,0,Speed problem,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8076380399,0,Network issue kabhi bhi ho jati hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9971381092,10,Good experience,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9811197060,5,Speed low h internet connection problem kr tha h,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8700689975,9,Bus yahi ki acha hai or kya vajah ho sakti h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9315836676,2,Service thik nhi hai,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9910043513,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9643088318,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8586893315,0,Slow network,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9917545590,0,0,,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+9759117715,3,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9971367606,0,Speed very poor,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8750756671,0,Service bilkul 0 koi sunvai nahi hai bakwaas wiom,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9582347514,4,Good service ðŸ‘,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9891590859,1,Maine bhi wiom ka net laga rakha hai per mera net kabhi bhi proper tarike se nahin chalta jisse ki mujhe bahut hi problem hoti hai aur Maine Kai bar complaint bhi Dali Hai uska solution hua hi nahin thodi der ke liye ho jata hai FIR vaisi Ho jata,General Bad Service,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9625884306,10,Affordable price,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+9718376016,4,"Speed issue, network issue and multiple issues",Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9205106551,3,Network bohot baar rukta ha or bohot lag bhi hota ha Kai baar pura pura din network nahi chalta ha,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8700037631,5,5,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+9069196007,0,Network acche ni aate kbhi bhi Network chale jaate h,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9650475463,1,Kyuki aap ka wifi network kabhi kabhi bohot kharab chalta hai or network ata jata rehta hai kabhi kabhi,Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9911125140,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8076738089,7,Service good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8595871367,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7827611494,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8920766546,10,Sasta hai aur accha hai,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9625556840,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7982002335,10,Satisfy service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8126579942,7,,,,,,UP,200,CT,Sprint RSP8,2026-05-21,GX
+8285885950,10,Mujhe wiom ke internet se jyada wiom ki service psnd h koi bhi dikkat hone pe turant solution ho jata h,Good customer Support - call centre,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9599089001,0,Internet speed problem,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7710820667,10,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,TP
+9953537149,0,Wiom service not available from last week,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9354708701,10,Better services then other wifi provider's,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8826643485,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8826643485,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8291651005,10,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+9643092293,1,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9953860019,7,Net achcha chalta hai per à¤•à¤­à¥€-à¤•à¤­à¥€ ruk jata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8882539995,10,Kyuki ye sab se badiya h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8882107551,7,Net speed slow,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8869860363,10,Affordable price and benifits is not advance payment 3 month 1 months payment and to install and enjoy the entertainment,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9716232253,10,Service,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9310006817,10,Network acha h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8865054282,1,One working properly,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9667866197,10,Network ache h,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9267971247,0,Net sahi se kam nahin karta,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9810609051,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9268207275,4,Most of the time network issue,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8700504812,5,Unstable Internet sometimes it doesn't even pushes beyond 5kb/s,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9871139211,0,Kuchh nahi,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9773948928,10,Good speed and network,Good Speed,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8929691984,6,Qki buht jayda time wifi buht slow chlta hai nd buht di problem ayi rehti hai ajj bhi subha 2 hour tk wifi nahi chl rha tha,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9643501666,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9871850939,5,"Price increase kar diya hai or sath he 1 month me 3,4 baar network issue hamesha he hota hai or uske liye recharge date extend bhi nhi karte hai sirf bolte hai...",Expensive,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9690894064,0,Very very bad net,General Bad Service,,,,UP,200,WA,Sprint RSP8,2026-05-21,GX
+9891721437,0,Aaye din Aaye din net band hona,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+7668532681,0,Slow internet speed,Slow Speed,,,,UP,200,WA,Sprint RSP8,2026-05-20,GX
+9354896344,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8758864486,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9315928131,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8178151969,10,Service acchi h bught me h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9013215472,8,Kabhi kabhi net issue aata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8810338329,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9210424770,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9773671143,2,Network problem and bar bar tower issue ka aana,Frequent Disconnections,Slow Speed,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+7311199004,0,"Wiom WiFi ki suvida achhi nhi hai ager ap stable network chahte h to apko dusare WiFi network option par jana chahiye esme har tisare se chauthe in internet ki problem rahti complain karne pr 2 ghante se jada time lg jata internet aane me or fir kuch der bad wahi problem ager apko sase me internet chahiye to wake liye ja sakte aisi suvidha ke sath , or ager ap internet workke purpose se WiFi lgawana chahte hai to ye achha nhi hai",Frequent Disconnections,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8840596244,1,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8851542871,1,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9650256142,0,Payment pÅ•oses in app un understabl,Bad Application,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9650229928,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9818546176,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8376896818,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9470579606,0,"Your internet service is really pathetic, internet service gets lost almost every second day.",Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7503373028,10,Bar bar jo ap band kar dete ha ispe kaam karo baki to behtar hi chalta ha apka net,General Good Service,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9999813256,0,Ye khud hi net band kar dete hai office se hiðŸ‘ŽðŸ‘Ž par ab mai Airtel ka La.....,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9625566166,10,Service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8882904757,6,Wiom kam paiso m achha net deta hai par or behtar hota agar yai ott+ chenal bhi deta,Affordable,"OTT Request, No OTT complaint",,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+7827708554,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8800593090,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+7982374686,2,"I give 2 because I ll not recommend wiom to my relatives because Our internet did not work for 2 days, and the connection was cut on the last day. Since we couldnâ€™t use the service, we should receive 2 extra days of internet validity.",No/Late Complaint Resolution,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8810398932,0,"5,6 din se hamara wifi nhi chal rha hai complent bhi nhi ho rhi h itni baar complent kr chuki hu pr koi bhi solution nhi diya aur na hi wifi chla h",No/Late Complaint Resolution,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9871237577,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8527700940,8,Network acha kaam karta hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9319502848,0,Worst connection even right now wifi isn't working,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7037313737,5,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9702610501,10,Goog,General Good Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,SY
+9625669686,10,Good experience,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7991178532,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8506814447,10,Service is good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9891943553,0,Costly and distub network,Expensive,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9891070582,8,Good network,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9911844356,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8802132072,0,Kabhi zindagi ma kisi ko suggest nahi karunga wiom wifi lagwana ko,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9999944064,0,Aap ka wiom ka net kabi band ho jata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9821968002,10,Very good mujhe bhut accha laga wiom ka network I am happy ðŸ˜,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8750421315,3,Internet range is very less,Range Issue,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8655598529,1,"Offer issue 
+ Network speed issue",Slow Speed,Frequent Disconnections,,,Mumbai,200,WA,Sprint RSP8,2026-05-21,TP
+9910932216,10,Good service,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8076352090,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8750243110,0,Wiom service bekar hona à¤šà¤¾à¤°-à¤ªà¤¾à¤‚à¤š mahine se aur abhi tak Koi HAL nahin mila mere ko Main to apna hi hatwane ki soch Raha Hun,General Bad Service,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8077127466,9,Speed good but price little bit high,Good Speed,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8512060145,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8299275038,0,Sabse badi wajah ye hai ki every week din me kisi bhi time ek se 2 baar internet bilkul band ho jata hai ghanto wait karna pad jata hai jaha par dusri company ke internet lagataar kaam karte rahte hain,Frequent Disconnections,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9899461331,10,Sabsa sasta,Affordable,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8375918382,5,Network issue slow network,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8810231025,4,"Wiom à¤•à¤¾ à¤®à¥ˆà¤¨à¥‡ à¤œà¤¬ à¤•à¥ˆà¤¨à¥‡à¤•à¥à¤¶à¤‚ à¤²à¤¿à¤ à¤¤à¤¬ à¤¶à¥à¤°à¥‚ à¤¶à¥à¤°à¥‚ à¤®à¥‡ à¤•à¥‹à¤ˆ à¤¡à¤¿à¤•à¥à¤•à¤¤à¥ à¤¨à¤¹à¥€ à¤¥à¥€à¥¤ , 8 à¤¸à¥‡ 9 à¤®à¤¹à¥€à¤¨à¥‡ à¤¸à¥‡ à¤¹à¤° à¤®à¤¹à¥€à¤¨à¥‡ à¤¤à¥€à¤¨ à¤¸à¥‡ à¤šà¤¾à¤° à¤¦à¤¿à¤¨ wifi à¤¨à¤¹à¥€ à¤šà¤²à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤‰à¤¸à¤•à¥‡ à¤¬à¤¾à¤¦ wiom à¤•à¤‚à¤ªà¤¨à¥€ à¤‰à¤¨à¤•à¥€ â‚¹5, â‚¹9, â‚¹20 à¤•à¤¾ à¤•à¥‚à¤ªà¤¨ à¤¦à¥‡ à¤¦à¥‡à¤¤à¥‡ à¤¹à¥ˆà¥¤ à¤•à¥à¤¯à¤¾ à¤¯à¥‡ à¤ªà¥à¤°à¥‰à¤®à¥à¤¬à¤²à¤‚à¤® à¤•à¤¾ à¤¸à¥‰à¤²à¥à¤¯à¥‚à¤¶à¤¨ à¤¹à¥ˆ? 
+ à¤¤à¥€à¤¨ à¤¸à¥‡ à¤šà¤¾à¤° à¤¦à¤¿à¤¨ wifi à¤¨ à¤šà¤²à¤¨à¥‡ à¤•à¥€ à¤•à¥à¤¯à¤¾ à¤•à¥‰à¤¸à¥à¤Ÿ à¤†à¤¤à¥€ à¤¹à¥ˆà¥¤ à¤†à¤ª à¤¯à¥‡ à¤¦à¥‡à¤–à¥‹à¥¤ 
+ à¤®à¥‡à¤°à¤¾ à¤®à¤‚à¤¨à¥à¤¨à¤¾ à¤¹à¥ˆ à¤•à¥€ à¤¯à¥‡ à¤ªà¥à¤°à¥‰à¤¬à¥à¤²à¤® à¤†à¤¤à¥€ à¤•à¥à¤¯à¥‹à¤‚ à¤¹à¥ˆà¥¤ 
+ à¤”à¤° engin. à¤•à¥‡ à¤¬à¤¹à¤¾à¤¨à¥‡ à¤¸à¥à¤¨à¤¨à¥‡ à¤”à¤° à¤¦à¥‡à¤–à¤¨à¥‡ à¤²à¤¾à¤¯à¤• à¤¹à¥‹à¤¤à¥€ à¤¹à¥ˆà¥¤",Internet Down,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9310512812,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9599824962,2,Bohot bekar network koi speed bhi nahi hai,Slow Speed,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7715973701,3,0,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-24,TP
+9650861633,10,Aapki service theek hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9891181236,10,Thik chalta hai ðŸ‘Ž,General Good Service,,,,Delhi,120,WA,Sprint RSP8,2026-05-20,GX
+8779907935,0,Problem ko koi sort out hi nahin karta hai subah mein bolenge sham ko kar denge sham ko bolenge subah kar denge customer care ekadam bakwas hai,Bad Customer Support - Call Centre,No/Late Complaint Resolution,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+8595369569,9,Thik hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9871096306,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8879802210,1,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+7532852682,2,High rate,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7503229476,10,Excellent,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8383843792,3,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8810601445,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+8130889334,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8802955322,5,bich me atakhta hai or range kam hai,Slow Speed,Range Issue,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9717290331,1,Wiom is good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8828622725,10,,,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+8447221340,0,Q ki aapka net saniwaar or Sunday ko bahut hi slow ho jata h hum youtube nexfilx tk nhi dekh pate jb ki humri holiday Sunday ko hi hota h...or aaj mene 7 days ka recharge kraya bt aaj hi aapke net me problem aa gyi ab aap ye batao mera to ek din ka recharge bekaar ho gaya,Slow Speed,Frequent Disconnections,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9930092434,10,Good net,General Good Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9911272051,10,10,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+7503064684,10,Net achcha chalta hai isliye denge,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8287876882,10,Han Jarur Denge Kyunki ismein self payment bhi ho jata hai aur Hamen koi problem Bhi Nahin Hoti Hai vah dusri baat hai ki network bahut slow chalta hai aur ruk bhi Jata Hai bich mein lekin Salah Jarur Denge Kyunki à¤ à¥€à¤•-à¤ à¤¾à¤• Hai Jyada bekar Bhi Nahin Hai,General Good Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7037645083,3,Lack of internet,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7827022687,7,Thik hai kabhi kabhi ruk jata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9716401656,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9911211790,10,à¤¯à¤¹ à¤•à¤µà¤¿à¤¯à¥‹à¤‚ à¤¬à¤‚à¤¦ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ à¤‡à¤¸à¤²à¤¿à¤ à¤®à¥ˆà¤‚à¤¨à¥‡ à¤Ÿà¤¾à¤‡à¤® à¤¦à¤¿à¤¯à¤¾ à¤¹à¥ˆà¤‡à¤¸à¤•à¥‹,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7060662992,0,,,,,,UP,200,WA,Sprint RSP8,2026-05-20,SY
+9953413639,5,Slow chalta h mostly,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8587970616,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8860749045,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8595887166,0,Har do dine baad network not working mai to kisi ko recognise nahin karung,Frequent Disconnections,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8920736216,10,Net bahut acha chalta ha or budget me bhi ha,Affordable,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9212827012,10,Very good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9667635220,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8928217696,10,,,,,,Mumbai,200,CT,Sprint RSP8,2026-05-24,TP
+8860575292,5,Rate jada h,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9911001562,5,Service me continuety nahi Hai. Net bahut Jada slow ho Jata Hai,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9910861020,10,Sabse kam paiso me mujhe ye behtar lga abhi tak,Affordable,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7011644324,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+8287471978,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+8368946134,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9717282148,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9711467166,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8851988391,10,Wiom wifi best hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9315353765,9,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9315500879,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,TP
+7834923413,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9868983471,6,à¤ªà¤¹à¤²à¥‡ à¤¸à¥‡ à¤¸à¥‡à¤µà¤¾ à¤¬à¥‡à¤¹à¤¤à¤° à¤¹à¥à¤† à¤¹à¥ˆà¥¤ à¤œà¤¬ à¤ªà¥‚à¤°à¥€ à¤¤à¤°à¤¹ à¤¸à¥‡ à¤¬à¥‡à¤¹à¤¤à¤° à¤¹à¥‹ à¤œà¤¾à¤à¤—à¤¾ à¤¤à¥‹ à¤®à¥ˆà¤‚ à¤¸à¥à¤•à¥‹à¤° à¥§à¥¦ à¤­à¥€ à¤¦à¥‚à¤‚à¤—à¤¾,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9711728088,0,Bhot bura chlta h wi fi speed nhi h reh reh k kharab rehta h raat k 2 bje se 5 bje tak gayab rehta h faaltoo ho gya h ek dam bekar,General Bad Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8447874601,0,Kabhi bhi net band ho jata hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9310219683,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8591504149,10,Very good service and high network speed,Good Speed,General Good Service,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,SY
+8178233393,0,Bhaut khrab network abhi bhi band hai,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,TP
+8059566887,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8505824010,8,Easy to install and service ratio better,General Good Service,Quick Installation,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9718741822,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7529977435,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+9810818382,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8920438530,10,Wifi,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8595203936,0,Roj network problem,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+9958832762,10,Good,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9818689642,0,High price charges,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9711024106,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8448825828,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8750626153,1,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8130332956,10,Wiom ek bohot achi service hai isi ki wajah se aj har ghar mai wifi ki suvidha hai or isme har time customer service chalu rehti koi bhi dikkat ho to wiom jald se jald koshish karta hai ki sahi kar sake isliye wiom best hai or isi wajah se maine wiom ko chuna,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9315089112,0,Frist . Not a proper app or portal to check our net status. And second month by months increase the rent / plan amounts.,Bad Application,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9911021533,10,Qki net acha chlta hn kabhi kbhi dikaat aati h. Or call krne pr hi sab solve kr dete ho ap,General Good Service,Good customer Support - call centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9599879803,5,Bahut acha net chalta hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9319834414,9,Wiom internet sabse sasta or acha hai,Affordable,General Good Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9643217172,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+8851681826,0,Service nahin dena,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9999705861,5,This is very bad service,General Bad Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,SY
+8800687615,9,Wiom is good but sometime network error problem i face with red light my wifi box show ..,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8595137251,0,à¤†à¤ªà¤•à¥‡ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¸à¥‡à¤µà¤¾à¤à¤‚ à¤¬à¤¹à¥à¤¤ à¤–à¤°à¤¾à¤¬ à¤¹à¥ˆ,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9315768869,3,Sometimes the network is so poor and takes so long to get back to the normal net speed. The chat support is extremely dissatisfying. Hope the network speed is maintain and the provide the better services.,Slow Speed,Bad Customer Support - Call Centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9967041188,10,Taki mere dost ya rishtedaar bhi Wiom wifi ka Anubhav le,General Good Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9716020403,1,à¤¹à¤° à¤¦à¥‚à¤¸à¤°à¥‡ à¤¦à¤¿à¤¨ à¤¶à¤¿à¤•à¤¾à¤¯à¤¤ à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤¨à¤¹à¥€à¤‚ à¤†à¤¤à¥‡ à¤¹à¥ˆà¤‚,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,TP
+9667214159,5,Jab Marji to yah band ho jata hai har Kai bar to pura pura din nahin chalta lagvaya kis liye Hain humne Baki vaise rukta nahin Hai Jab chalta hai to bahut acche chalta hai aur Maine 10 mein se five isliye Diya Hai kyunki agar Ham Kisi aur Ko suggest karte hain wiom ka Wi-Fi lagwane ka Kisi Ko suggestion dete bhi hain agar fir se yah à¤¬à¤¾à¤°-à¤¬à¤¾à¤° band hue to vah to aapko thodi kuchh bolega hamen hi to bolega ki Kaisa Wi-Fi lagva Diya baki sab kuchh theek hai good ðŸ™ðŸ»,Frequent Disconnections,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8377881980,10,Good intarnet,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,TP
+9899308262,2,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9205678757,0,Bhai bilkul hi ghatiya Kishan ki quality hai Wi-Fi ki net speed down speed bilkul bakwas hai kuchh bhi nahin Hai bekar hai aur service bhi bahut gandi hai,General Bad Service,Slow Speed,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+8920648171,3,Apka net sahi nhi hai,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8368841414,6,Wifi ka canection ki range bahut kam hai,Range Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9953283786,1,Day by day net problem,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8423722322,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,TP
+8882943413,0,Kabhi kabar mujhe bahut hi pareshani hoti ha wiom se aur ek baar ki baat ha mera board exam tha class 10th cbse aur mene sabh padh liya tha bas thoda main revision karna tha aur mr subah ke 4 baje utha to tumhara wifi ne dhokha de diya aur mera revision nhi ho paya,Frequent Disconnections,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9654651057,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,SY
+9250080041,0,Jab Marji wom ka net band pad jata hai Jab ham hi Pareshan Rahte Hain To dusre ko kyon Pareshan Karen,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,TP
+9250066286,10,Mujhe bahot achha laga wiom net,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9821263457,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7498716019,0,Internet speed low hai,Slow Speed,,,,Mumbai,200,CT,Sprint RSP8,2026-05-21,SY
+7678243589,5,Speed is no ok some time,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,SY
+9667440267,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8860581596,0,Slow,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9871981425,0,O,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8860745619,10,Wiom ka internet bahut achcha hai aur iske service bhi bahut acchi hai aur iska net bhi bahut Tej chalta hai ki kabhi bhi nahin rukta thank you wiom,General Good Service,Good Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+9667546335,8,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+7701885105,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+8376012852,5,APPROXIMATELY WORKING ONLY ONLY 15 DAY REST 15 DAYS WAS SAME CONNECTVITY ISSUE OR WIRE BREAK IN SOMEWERE .,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9997767362,0,Stupid app interface and stupidest application of charges,Bad Application,General Bad Service,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9811721059,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+7065121705,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+8076557570,10,Very good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+7543827604,10,Wiom net accha hai,General Good Service,,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+9213940849,10,Good speed,Good Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9818840070,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,GX
+8802817298,1,Slow speed,Slow Speed,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8287478532,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,TP
+9911356860,5,Not good service always network issue,General Bad Service,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9716286152,0,"No 30/31 days plan available.
+ I cannot access router.
+ Slow internet speed.
+ Frequent disconnect.
+ No discount on plans.",28-Day Plan Issue,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+9643668699,8,It's working good but sometimes we face problems,General Good Service,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8882027520,0,Its not working. Each and every day we have to face trouble with your wifi connection.,Frequent Disconnections,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9717914059,7,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9870191725,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9718442146,0,Net bahut slow chalta hai Nitin recharge karo do do din tak nahin chalta hai,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+7974037440,7,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,TP
+9667952995,1,Price zyada hai har network 500 me padhta hai lekin wiom network 570 leta haiðŸ¤¬ or network ki tarha please aap bhi price kam karo ðŸ™ðŸ»,Expensive,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8800958948,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,SY
+8447054811,1,Network issue bhot hota hai kabhi kabhi 2 3 din tak network aata hi nhi hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9555825689,10,Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9015073219,0,"Net chlta ne h recharge ke baad hume 36 baar phn krke Bolna pdta h ki net ne chl rha or month m ye 3,4 bar hota h har month yhi hal h",No/Late Complaint Resolution,"RDNI (Recharge Done, No Internet)",,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8750666688,0,0,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9599426872,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,TP
+8505968770,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,GX
+8178234997,2,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+8700803397,10,Thank you for your valuable time. Wishing you success and happiness always!,N/A,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7417855010,4,"So many times internet not work. Especially in night, wifi doesn't work and it take many hours to resolve the issue.",Frequent Disconnections,No/Late Complaint Resolution,,,Mumbai,200,WA,Sprint RSP8,2026-05-20,TP
+7982671003,2,Airtel,N/A,,,,Delhi,200,CT,Sprint RSP8,2026-05-24,GX
+7065896583,0,"kabhi bhi band ho jata hai kabhi wire tut rhi hsi kabhi kuch toot rha hai
+ yeh net kabhi bhi dhokha de jata hai",Frequent Disconnections,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9899712695,10,Good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9871808150,10,Wiom net very very good,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9773917905,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9654435770,10,Yahi ki bhut easy installation hai or easy to working hai bhut acha experience hai abhi ke liye baki aage dekhte hai kise result deta hai thanku,General Good Service,Quick Installation,,,Delhi,45,WA,Sprint RSP8,2026-05-20,GX
+9407730419,0,Service sahi nahi h,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9773563433,0,"Net abhi tak nahi chala ...
+ Thats how you guyss treat your one of oldest client",No/Late Complaint Resolution,General Bad Service,,,Delhi,200,CT,Sprint RSP8,2026-05-21,TP
+9625605054,10,Service good,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9873592520,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8800523076,5,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8178675013,0,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+7417601207,0,Bekar service h. Har 2 din bad internet prob karta hai technician bhi bahut tym lagata hai,Frequent Disconnections,Bad Customer Support - Technician,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9910839612,0,0,,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,SY
+8527949523,0,0,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,GX
+9911705779,0,Aap ke ki speed pr service sahi nahi h aap ka recharge 28 din bhi nahi hota h net band ho jata h ham bhut jaldi is ko band krne ka plan kr rhe hn aap ka plan bhi bhut costly h,General Bad Service,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8860426851,0,NET BAHUT BAAR BAND HO JATA HAI..TECHNISION BHI NAHI AATA HAI..CUSTOMER CARE PAR BHI THEEK SE BAAT NAHI KARTE HAI..24 HOUR KA TIME DETEY HAI.CUSTOMER CARE SERVICE 24 HOUR NAHI HAI,Frequent Disconnections,Bad Customer Support - Call Centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9310641119,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,TP
+7303508803,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,TP
+9643793637,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9210355141,5,,,,,,,200,CT,Sprint RSP8,2026-05-22,
+8826835195,0,Haw week net nhi chalta,Frequent Disconnections,,,,,200,CT,Sprint RSP8,2026-05-20,
+9818729707,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9354777810,0,Customer support very bad,Bad Customer Support - Call Centre,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+9811606966,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,TP
+9319492969,0,Kyuki apka internet kabhi kabar chalta hai or mujhe complaint kare hue 5 din ho gaye koi technition nhi syaa,No/Late Complaint Resolution,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8368239025,0,Every time network issue device not work properly every 3rd day i complain for internet issue very bad connect so costly for this type of network device bery bad,General Bad Service,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9311346568,10,,,,,,,200,CT,Sprint RSP8,2026-05-22,
+8130720108,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9911865698,0,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+7291957056,8,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8377949024,5,à¤•à¥à¤¯à¥ à¤•à¥€ à¤‡à¤¸à¤•à¤¾ à¤ªà¥à¤²à¤¾à¤¨ 28 à¤¦à¤¿à¤¨à¥ à¤•à¤¾ à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ à¤œà¤¬à¤•à¥€ à¤“à¤° à¤•à¤‚à¤ªà¤¨à¥€ 30 à¤¦à¤¿à¤¨ à¤•à¤¾ à¤¦à¥‡à¤¤à¥€ à¤¹à¥ˆ,28-Day Plan Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+7982539757,0,Service issues and Speed issue,General Bad Service,Slow Speed,,,Delhi,200,WA,Sprint RSP8,2026-05-20,GX
+9667706796,1,Net kaafi slow chlta h most of the time network nhi hote h,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9350018191,10,Internet plan sirf 1 month ka hi show hota hai. Internet plans multiple month ka hona chahiye Jaise 4 month ka ya 6 month ka,28-Day Plan Issue,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8800486900,0,Net speed is very slow and mid night net working is closed.,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9210966280,10,Bht acha h,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9599326202,1,WIOM RECHARGE KHTM HONE K 2 DIN PEHLE SE NET BBAND KR DETA H OR CUSTOMER SUPPORT BILKUL ACHA NHI H BUS SORRY BOLTE REHTE H OR RECHARGE K BAAD JO 2 DIN PEHLE BAND KRTE H USKA KOI BHI SOLUTION NHI MILTA,General Bad Service,Bad Customer Support - Call Centre,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9023427771,8,"Service is good, total free service that's way it's all time favorite",General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+7982509622,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+8595789843,8,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-20,TP
+7007117305,0,Week me 4 din internet problem chalta hi nhi mahine me 20 din nhi chalta kewal 10 din chalta h wo bhi ro ro ke,Internet Down,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9990093661,0,"à¤¬à¤¹à¥à¤¤ à¤¬à¤¾à¤° à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤•à¤¨à¥‡à¤•à¥à¤¶à¤¨ à¤°à¥à¤• à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ à¤œà¤¿à¤¸à¤•à¥‡ à¤•à¤¾à¤°à¤£ à¤¬à¤¹à¥à¤¤ à¤ªà¤°à¥‡à¤¶à¤¾à¤¨à¥€ à¤¹à¥‹à¤¤à¥€ à¤¹à¥ˆ,
+ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤¹à¤®à¤¾à¤°à¥‡ à¤¬à¤¹à¥à¤¤ à¤•à¤¾à¤® à¤¹à¥‹à¤¤à¥‡ à¤¹à¥ˆ à¤à¤¸à¥‡ à¤®à¥‡à¤‚ à¤‡à¤‚à¤Ÿà¤°à¤¨à¥‡à¤Ÿ à¤¬à¥€à¤š à¤®à¥‡à¤‚ à¤¬à¤‚à¤¦ à¤¹à¥‹ à¤œà¤¾à¤ à¤¤à¥‹ à¤¬à¤¹à¥à¤¤ à¤¦à¥à¤– à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ,
+ à¤¹à¤® à¤•à¤‚à¤ªà¤¨à¥€ à¤•à¥‹ à¤…à¤ªà¤¨à¥€ à¤®à¥‡à¤¹à¤¨à¤¤ à¤¸à¥‡ à¤•à¤®à¤¾à¤ à¤¹à¥à¤ à¤°à¥‚à¤ªà¤ à¤•à¤¾ à¤°à¤¿à¤šà¤¾à¤°à¥à¤œ à¤•à¤°à¤µà¤¾à¤¤à¥‡ à¤¹à¥ˆ à¤”à¤° à¤•à¤‚à¤ªà¤¨à¥€ à¤…à¤ªà¤¨à¥‡ à¤…à¤¨à¥à¤¯ à¤•à¤¾à¤°à¤£à¥‹à¤‚ à¤¸à¥‡ à¤¸à¤°à¥à¤µà¤¿à¤¸ à¤•à¥‹ à¤¬à¤¨à¥à¤¦ à¤•à¤° à¤¦à¥‡à¤¤à¥€ à¤¹à¥ˆ, à¤à¤¸à¥‡ à¤®à¥‡à¤‚ à¤•à¤¸à¥à¤Ÿà¤®à¤° à¤…à¤ªà¤¨à¥‡ à¤•à¥‹ à¤ à¤—à¤¾ à¤¹à¥à¤† à¤®à¤¹à¤¸à¥‚à¤¸ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ, à¤œà¥ˆà¤¸à¥‡ à¤‰à¤¸à¤•à¥€ à¤®à¥‡à¤¹à¤¨à¤¤ à¤•à¥‡ à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤•à¤®à¤¾à¤ à¤¹à¥à¤ à¤°à¥‚à¤ªà¤ à¤¸à¥‡ à¤µà¤¹ à¤œà¤¿à¤¸ à¤¸à¤°à¥à¤µà¤¿à¤¸ à¤•à¥‡ à¤²à¤¿à¤ à¤­à¥à¤•à¥à¤¤à¤¾à¤¨ à¤•à¤° à¤°à¤¹à¤¾ à¤¹à¥ˆ à¤µà¤¹ à¤­à¥€ à¤‰à¤¸à¥‡ à¤ªà¥‚à¤°à¥€ à¤¤à¤°à¤¹ à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤² à¤°à¤¹à¥€, 
+ à¤‡à¤¸ à¤•à¤‚à¤ªà¤¨à¥€ à¤¸à¥‡ à¤¦à¥à¤¬à¤¾à¤°à¤¾ à¤•à¥‹à¤ˆ à¤”à¤° à¤¨ à¤ à¤—à¤¾ à¤œà¤¾ à¤¸à¤•à¥‡ à¤‡à¤¸à¤•à¤¾ à¤œà¤°à¥‚à¤° à¤§à¥à¤¯à¤¾à¤¨ à¤°à¤–à¥‚à¤‚à¤—à¤¾, à¤”à¤° à¤•à¤¿à¤¸à¥€ à¤”à¤° à¤µà¥à¤¯à¤•à¥à¤¤à¤¿ à¤•à¥‹ à¤‡à¤¸ à¤•à¤‚à¤ªà¤¨à¥€ à¤¸à¥‡ à¤¬à¤šà¤¨à¥‡ à¤•à¥€ à¤¸à¤²à¤¾à¤¹ à¤¦à¥‚à¤‚à¤—à¤¾",Frequent Disconnections,General Bad Service,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9650408514,9,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-23,SY
+9650537113,0,Price high kar diya ha,Expensive,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8814046306,10,,,,,,,200,CT,Sprint RSP8,2026-05-22,
+9315478991,10,Iska network Acha hai,General Good Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9667428600,2,,,,,,,200,CT,Sprint RSP8,2026-05-21,
+8810433802,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+9517286959,6,à¤²à¤—à¤¤à¤¾à¤° à¤¸à¥à¤ªà¥€à¤¡ à¤•à¤® à¤¹à¥‹ à¤œà¤¾à¤¤à¥€ à¤¹à¥ˆ,Slow Speed,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9582464783,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9310341084,0,28 dino me se15 din hi netwark Kam karta hai or sunwai bhi nahi hoti,Frequent Disconnections,28-Day Plan Issue,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+7048905219,5,Kabhi bhi network chle jate hai,Frequent Disconnections,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9654197171,3,Wiom ka wifi slow aata hai or bich bich me band ho jata hai or iska recharge bhi mehenga kar diya hai,Slow Speed,Frequent Disconnections,,,Delhi,200,WA,Sprint RSP8,2026-05-20,SY
+8920131925,10,,,,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8851361216,0,Net nahi aata hai and koi sahi krne wale bhi nhi aate,Frequent Disconnections,No/Late Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+8851740914,0,Network problem,General Bad Service,,,,Delhi,200,WA,Sprint RSP8,2026-05-21,TP
+9958032722,10,Net speed theek hai aur complaint bhi jaldi theek Ho jaati Hai,Good Speed,Fast Complaint Resolution,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9891201383,10,,,,,,Delhi,200,CT,Sprint RSP8,2026-05-22,GX
+9354607453,3,"Recharge is for 28 days only instead of 1 month, and price is increasing rapidly.",28-Day Plan Issue,Expensive,,,Delhi,200,WA,Sprint RSP8,2026-05-20,TP
+9899415789,10,Good aeelrcice,General Good Service,,,,Delhi,200,CT,Sprint RSP8,2026-05-21,GX
+9818724116,0,,,,,,,,CT,Sprint RSP8,2026-05-21,
+9004097903,0,0,,,,,,,CT,Sprint RSP8,2026-05-21,
+8510093596,9,,,,,,,,CT,Sprint RSP8,2026-05-22,
+8210196870,1,Internet rukta hai hai to problem jaldi solve nahi hota,No/Late Complaint Resolution,Frequent Disconnections,,,,,CT,Sprint RSP8,2026-05-22,
+9990864836,6,,,,,,,,CT,Sprint RSP8,2026-05-24,
