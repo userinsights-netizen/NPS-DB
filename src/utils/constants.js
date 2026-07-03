@@ -13,6 +13,8 @@ export const SPRINT_MONTH_MAP = {
   'Sprint 13': "Jan-1H '26", 'Sprint 14': "Jan-2H '26",
   'Sprint RSP1': "Feb-1H '26", 'Sprint RSP2': "Feb-2H '26",
   'Sprint RSP3': "Mar-1H '26", 'Sprint RSP4': "Mar-2H '26", 'Sprint RSP5': "Apr-1H '26",
+  'Sprint RSP6': "Apr-2H '26", 'Sprint RSP7': "May-1H '26",
+  'Sprint RSP8': "May-2H '26", 'Sprint RSP9': "Jun-1H '26", 'Sprint RSP10': "Jun-2H '26",
 };
 
 // Short tick labels for chart x-axes (saves horizontal space)
@@ -26,6 +28,8 @@ export const SPRINT_SHORT_MAP = {
   'Sprint 13': 'Jan-1H', 'Sprint 14': 'Jan-2H',
   'Sprint RSP1': 'Feb-1H', 'Sprint RSP2': 'Feb-2H',
   'Sprint RSP3': 'Mar-1H', 'Sprint RSP4': 'Mar-2H', 'Sprint RSP5': 'Apr-1H',
+  'Sprint RSP6': 'Apr-2H', 'Sprint RSP7': 'May-1H',
+  'Sprint RSP8': 'May-2H', 'Sprint RSP9': 'Jun-1H', 'Sprint RSP10': 'Jun-2H',
 };
 
 // Sprint → month aggregation
@@ -39,6 +43,8 @@ export const SPRINT_TO_MONTH = {
   'Sprint 13': "Jan '26", 'Sprint 14': "Jan '26",
   'Sprint RSP1': "Feb '26", 'Sprint RSP2': "Feb '26",
   'Sprint RSP3': "Mar '26", 'Sprint RSP4': "Mar '26", 'Sprint RSP5': "Apr '26",
+  'Sprint RSP6': "Apr '26", 'Sprint RSP7': "May '26",
+  'Sprint RSP8': "May '26", 'Sprint RSP9': "Jun '26", 'Sprint RSP10': "Jun '26",
 };
 
 // Sprint → quarter aggregation
@@ -52,6 +58,8 @@ export const SPRINT_TO_QUARTER = {
   'Sprint 13': "Q3 FY26 (Jan-Mar '26)", 'Sprint 14': "Q3 FY26 (Jan-Mar '26)",
   'Sprint RSP1': "Q3 FY26 (Jan-Mar '26)", 'Sprint RSP2': "Q3 FY26 (Jan-Mar '26)",
   'Sprint RSP3': "Q3 FY26 (Jan-Mar '26)", 'Sprint RSP4': "Q3 FY26 (Jan-Mar '26)", 'Sprint RSP5': "Q1 FY27 (Apr '26+)",
+  'Sprint RSP6': "Q1 FY27 (Apr '26+)", 'Sprint RSP7': "Q1 FY27 (Apr '26+)",
+  'Sprint RSP8': "Q1 FY27 (Apr '26+)", 'Sprint RSP9': "Q1 FY27 (Apr '26+)", 'Sprint RSP10': "Q1 FY27 (Apr '26+)",
 };
 
 export const QUARTER_ORDER = [
@@ -61,7 +69,7 @@ export const QUARTER_ORDER = [
 
 export const MONTH_ORDER = [
   "Jul '25", "Aug '25", "Sep '25", "Oct '25", "Nov '25", "Dec '25",
-  "Jan '26", "Feb '26", "Mar '26", "Apr '26",
+  "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26",
 ];
 
 // Pre-coded nps_reason_primary → theme mapping
